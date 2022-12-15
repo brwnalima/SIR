@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=40&center=true&vCenter=true&width=1000&lines=+SIR+-+SISTEMA+DE+INTEGRAÇÃO+DA+RESILIA)](https://git.io/typing-svg)
 
 
-Você consegue ver os meus exercícios e desafios, de modo prático, em meu deploy: [Desafios & Exercícios](https://brwnalima.github.io/Ex-Curso-JS/).
-
+Projeto individual do curso de Dev. Web FullStack do projeto Programadores Carioca - SENAC RJ & Resilia.
 
 ## Existem outras entidades além dessas três?
 
