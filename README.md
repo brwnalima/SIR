@@ -20,20 +20,14 @@ Sim, considerando o sistema e modelo da instituição de ensino, além das entid
 ```sh
 Os principais campos são o ID de cada entidade, ou seja, as chaves primárias. Esse campos, em sua maioria, são varchar. 
 
-1. Facilitador Soft
-2. Facilitador Hard
-3. Matrícula
-
 ```
 
+## Como essas entidades estão relacionadas?
+
+```sh
 
 
-Como essas entidades estão relacionadas?
-
-
-<br>
-<div align='center'><img src="video.gif"></img></div>
-<br>
+```
 
 Veja também:
 
