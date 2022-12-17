@@ -25,6 +25,8 @@ Os principais campos são o ID de cada entidade, ou seja, as chaves primárias. 
 
 ```sh
 
+Dentro dessa modelagem, temos relacionamentos binários e ternários. O relacionamento Cursos-Turmas é um exemplo de um conjunto de relacionamentos binários - isto é, ele envolve dois conjuntos de entidades. 
+A maioria dos conjuntos de relacionamentos neste sistema de banco de dados é binária. Porém, existem conjuntos de relacionamentos que envolvem mais de dois conjuntos de entidades, como o relacionamento entre Turmas-Matrícula-Alunos. 
 
 ```
 
